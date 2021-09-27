@@ -1,0 +1,23 @@
+{
+    "animation": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-animation-animation-201038-authRole",
+            "UnauthRoleArn": "arn:aws:iam::187810549687:role/amplify-animation-animation-201038-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::187810549687:role/amplify-animation-animation-201038-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-animation-animation-201038-deployment",
+            "UnauthRoleName": "amplify-animation-animation-201038-unauthRole",
+            "StackName": "amplify-animation-animation-201038",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:187810549687:stack/amplify-animation-animation-201038/6da7b320-1eba-11ec-908f-06a61b811205",
+            "AmplifyAppId": "d2nxtmgpve34c1"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2nxtmgpve34c1",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
